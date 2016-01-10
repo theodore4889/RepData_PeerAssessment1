@@ -1,3 +1,5 @@
+Reproducible Research: Course Project #1
+========================================
 
 ## Load libraries and dataset  
 library(dplyr)  
